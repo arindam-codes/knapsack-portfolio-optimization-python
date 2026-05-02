@@ -56,7 +56,7 @@ def greedy(stocks, budget, keyFunction):
 
 ---
 
-## 3 Greedy Strategies **Highest Expected Return First** | **Lowest Cost First** | **Highest Return per Dollar (Value/Weight Ratio)**
+## 3 Greedy Strategies [ **Highest Expected Return First** | **Lowest Cost First** | **Highest Return per Dollar (Value/Weight Ratio)** ]
 
 1. **Highest Expected Return First**
 ```
