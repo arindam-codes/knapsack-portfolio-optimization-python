@@ -141,4 +141,4 @@ Built while studying:
 * 0/1 knapsack foundations
 
 ---
-📁 **Full code available** — check the **[greedy.py](https://github.com/arindam-codes/knapsack-portfolio-optimization-python/blob/main/greedy.py)** file in this repo.
+📁 **Full code available** — check the **[[greedy.py](https://github.com/arindam-codes/knapsack-portfolio-optimization-python/blob/main/greedy.py)]** file in this repo.
