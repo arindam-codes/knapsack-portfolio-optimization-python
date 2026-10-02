@@ -1,4 +1,4 @@
-# Greedy Stock Selection — 0/1 Knapsack Problem in Python
+# Greedy Stock Selection - 0/1 Knapsack Problem in Python
 > Compare three greedy strategies for portfolio optimization using Python. Which one picks the best stocks under a $1000 budget?
 
 A small modeling exercise inspired by **MIT 6.100B (Lecture 1)** 
